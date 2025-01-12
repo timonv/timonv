@@ -21,6 +21,5 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_threshold: 2%
-          plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: bosun-ai/swiftide,bosun-ai/kwaak
           plugin_languages_analysis_timeout_repositories: 15
+          commits_authoring: timon vonk,timonv,timon,timonv@users.noreply.github.com
