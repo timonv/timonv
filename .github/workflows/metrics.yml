@@ -20,7 +20,7 @@ jobs:
           plugin_languages_sections: recently-used,most-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-          plugin_language_threshold: 2%
+          plugin_languages_threshold: 2%
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: bosun-ai/swiftide,bosun-ai/kwaak
           plugin_languages_analysis_timeout_repositories: 15
